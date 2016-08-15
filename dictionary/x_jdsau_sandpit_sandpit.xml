@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="sandpit" max_length="40" name="x_jdsau_sandpit_sandpit" type="collection">
+        <element label="Sandpit" max_length="40" name="sandpit" type="string"/>
+    </element>
+</database>
